@@ -53,18 +53,18 @@ In VS Code > Preferences > Settings > User > Extensions > Vim Configuration
 Vim has many "Modes" the three important modes are:
  
 #### Normal
-![Screen Shot 2019-07-03 at 6.56.28 PM.png](resources/D2E765B8A32D60C4C576A17EE92E2A07.png =881x83)
+![Screen Shot 2019-07-03 at 6.56.28 PM.png](resources/D2E765B8A32D60C4C576A17EE92E2A07.png)
   * You want to be in this mode as much as possible. You enter this mode by hitting the Esc key (or Caps Lock if you changed it to Esc)
   * This is where you can can navigate the cursor using `hjkl` keys (or arrow keys if your new), Search for words in one command `/word-to-find`, or add parentheses around a word using `ysw(`
  
 #### Insert
-![Screen Shot 2019-07-03 at 6.56.33 PM.png](resources/7C03DBA76A887D85FCCAB976A7509B52.png =881x83)
+![Screen Shot 2019-07-03 at 6.56.33 PM.png](resources/7C03DBA76A887D85FCCAB976A7509B52.png)
   * This is what you're use to. Here you can type like a normal keyboard `hjkl` actually type hjkl instead of moving your cursor
   * You can enter this mode in mutiple ways. When in normal mode you can use `i` to enter insert mode
   * `cw` (<strong>C</strong>hange <strong>W</strong>ord) in normal mode will delete the word under your cursor and put you in insert mode, where you can start typing the word to replace it
   
 #### Visual
-![Screen Shot 2019-07-03 at 6.57.07 PM.png](resources/864B51244BF456AB9BE4480901FBB1CB.png =881x83)
+![Screen Shot 2019-07-03 at 6.57.07 PM.png](resources/864B51244BF456AB9BE4480901FBB1CB.png)
 * This is Vim's highlight mode
 * You can enter this mode by typing `v` in normal mode
 * `Shift + v` highlights the whole line, you can then use the arrow keys or `jk` keys to highlight up and down, followed by `y` to yank (copy) the highlighted text
