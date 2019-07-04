@@ -60,7 +60,7 @@ Restart iTerm2 for all changes to take effect.
 
 
 # My Zsh Config
-Install instructions can be found in my [zshrc]() repo.
+Install instructions can be found in my [zshrc](https://github.com/Gonzalo8642/zshrc) repo.
 
 # Editors
 I use VS Code as my main editor. Check out my [VSCode+Vim](quiver:///notes/1883F046-004C-43C1-94AA-0A6A9AAAA418) config for more info.
