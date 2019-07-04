@@ -63,6 +63,6 @@ Restart iTerm2 for all changes to take effect.
 Install instructions can be found in my [zshrc](https://github.com/Gonzalo8642/zshrc) repo.
 
 # Editors
-I use VS Code as my main editor. Check out my [VSCode+Vim](VSCode+Vim) config for more info.
+I use VS Code as my main editor. Check out my [VSCode+Vim](VSCode+Vim.md) config for more info.
 
 Sometimes it's quicker to edit a file in vim itself. My [vimrc](https://github.com/Gonzalo8642/vimrc) will walk you through the installation.
