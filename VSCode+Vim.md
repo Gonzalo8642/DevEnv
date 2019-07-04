@@ -132,6 +132,7 @@ Check out this [great article](https://yanpritzker.com/learn-to-speak-vim-verbs-
 
 ## Surround Plugin Highlights
 Everything in the [readme.md](https://github.com/tpope/vim-surround)
+
 |    Command    |      Desc     |
 | ------------- | ------------- |
 | cs'" | change 'hi' to "hi" |
