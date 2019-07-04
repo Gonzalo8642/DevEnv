@@ -1,5 +1,5 @@
 # Development Environment
-![Screen Shot 2019-07-03 at 6.38.02 PM.png](resources/78C4C939C0DE27CCA6786AC1DAE67CF3.png =646x456)
+![Screen Shot 2019-07-03 at 6.38.02 PM.png](https://github.com/Gonzalo8642/DevEnv/blob/master/resources/78C4C939C0DE27CCA6786AC1DAE67CF3.png)
 
 This will guide you through installing my development enviorment. This was written with MacOS in mind but should be available in Windows and Linux with little modifications.
 
